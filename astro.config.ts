@@ -11,8 +11,8 @@ import { themeConfig } from './src/.config'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://rolod-assistant.github.io/my-blog',
-  base: '/my-blog',
+  site: 'https://rolod-assistant.github.io',
+  base: '/',
   prefetch: true,
   vite: {
     plugins: [
