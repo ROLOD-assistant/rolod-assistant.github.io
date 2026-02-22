@@ -14,7 +14,6 @@ export default defineConfig({
   site: 'https://rolod-assistant.github.io/my-blog',
   base: '/my-blog',
   prefetch: true,
-  base: '/',
   vite: {
     plugins: [
       // eslint-disable-next-line ts/ban-ts-comment
