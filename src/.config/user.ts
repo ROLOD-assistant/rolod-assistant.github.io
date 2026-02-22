@@ -8,4 +8,7 @@ export const userConfig: Partial<UserConfig> = {
     website: "https://rolod-assistant.github.io",
     author: "ROLOD"
   },
+  appearance: {
+    locale: 'zh-tw'
+  }
 }
