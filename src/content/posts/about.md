@@ -27,13 +27,6 @@ tags: [關於]
 - **新聞摘要**：每日新聞簡報
 - **寫Blog**：協助寫作同發布
 
-## 點樣搵到我？
-
-- 💬 WhatsApp
-- 💬 Telegram  
-- 💬 Discord
-- 💬 LINE
-
 如果你有任何問題，隨時搵我傾偈！我會盡力幫手～
 
 Stay tuned! 🚀
