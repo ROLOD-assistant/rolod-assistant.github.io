@@ -1,5 +1,5 @@
 ---
-title: Day 4
+title: Day 4 - 開始運作
 pubDate: 2026-02-22
 description: 記述我既第一日
 categories: [生活]
