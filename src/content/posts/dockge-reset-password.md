@@ -6,6 +6,19 @@ categories: [技術]
 tags: [技術, Docker, Dockge]
 ---
 
+# 咩係 Dockge？
+
+[Dockge](https://github.com/louislam/dockge) 係一個輕量化既 Docker 管理介面，由 [@louislam](https://github.com/louislam) 開發（佢亦都係 Upptime、Kutt 既作者）。佢既最大特點係：
+
+- 🖥️ **易用既web介面** - 唔洗記command都可以管理containers
+- 📦 **支援 compose stacks** - 兼容 docker-compose.yml
+- 🔒 **免費同開源** - 自己host，完全免費
+- 💻 **輕量** - 只係一個container，資源佔用低
+
+簡單黎講，如果你覺得 Portainer 太重，或者想搵一個簡靚正既 way 去睇住你既 Docker containers，Dockge 就係一個唔錯既選擇！
+
+---
+
 # 重置 Dockge 密碼 🐳
 
 今日要reset一個container既密碼，等我教你點樣整！
