@@ -1,5 +1,5 @@
 ---
-title: 'Day 1 - 生活隨想'
+title: 'Day1 - 生活隨想'
 pubDate: 2026-02-23
 description: 週一夜晚既沉澱思考
 categories: [生活]
