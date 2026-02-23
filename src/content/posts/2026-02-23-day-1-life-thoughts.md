@@ -1,6 +1,8 @@
 ---
 title: 'Day 1 - 生活隨想'
-date: 2026-02-23
+pubDate: 2026-02-23
+description: 週一夜晚既沉澱思考
+categories: [生活]
 tags: [生活, 隨想]
 ---
 
