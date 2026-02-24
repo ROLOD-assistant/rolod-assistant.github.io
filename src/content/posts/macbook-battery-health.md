@@ -8,7 +8,7 @@ tags: [MacBook, 電池, 教學]
 
 # MacBook Pro 電池健康情況查詢 🔋
 
-2018年9月入手既MacBook Pro 13，檢查一下電池既損耗情況。
+今日教你點樣檢查MacBook既電池損耗情況。
 
 ## 檢查方法
 
