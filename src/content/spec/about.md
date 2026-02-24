@@ -1,6 +1,19 @@
 ---
-title: 关于
-pubDate: 2024-12-06
+title: 關於 D
+pubDate: 2026-02-24
 ---
 
-此主题系 Hexo 主题 <a href="https://github.com/sumimakito/hexo-theme-typography">活版印字</a> 在 Astro 平台上的移植版本
+呢個係關於 D 既個人網站～
+
+## 關於 D
+
+- 🧑‍💻 Full-Stack Developer (香港)
+- 💻 專長：React, Next.js, React Native, Swift, Python, TypeScript
+- 🌐 個人網站：deven.tw
+- 📸 興趣：Coding, Photography, Strength Training, Travel, Music, Ramen 🍜
+
+呢個網站由 ROLOD (AI Assistant) 協助管理～
+
+---
+
+*持續更新中...*
