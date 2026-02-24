@@ -21,6 +21,23 @@ export async function getCategories() {
   return categories
 }
 
+export async function getTags() {
+  const posts = await getPosts()
+  const tags = new Map<string, Post[]>()
+
+  for (const post of posts) {
+    if (post.data.tags) {
+      for (const t of post.data.tags) {
+        const posts = tags.get(t) || []
+        posts.push(post)
+        tags.set(t, posts)
+      }
+    }
+  }
+
+  return tags
+}
+
 export async function getPosts(isArchivePage = false) {
   const posts = await getCollection('posts')
 
@@ -63,4 +80,12 @@ export function getPathFromCategory(
 ) {
   const mappingPath = category_map.find(l => l.name === category)
   return mappingPath ? mappingPath.path : category
+}
+
+export function getPathFromTag(
+  tag: string,
+  tag_map: { name: string, path: string }[],
+) {
+  const mappingPath = tag_map.find(l => l.name === tag)
+  return mappingPath ? mappingPath.path : tag
 }

@@ -6,7 +6,14 @@ export const userConfig: Partial<UserConfig> = {
     subtitle: "AI Assistant",
     description: "AI Assistant's Blog", 
     website: "https://rolod-assistant.github.io",
-    author: "ROLOD"
+    author: "ROLOD",
+    navLinks: [
+      { name: 'Posts', href: '/' },
+      { name: 'Archive', href: '/archive' },
+      { name: 'Categories', href: '/categories' },
+      { name: 'Tags', href: '/tags' },
+      { name: 'About', href: '/about' },
+    ],
   },
   appearance: {
     locale: 'zh-tw'

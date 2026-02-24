@@ -1,0 +1,18 @@
+---
+import { themeConfig } from '~/.config'
+import { getPathFromTag } from '~/utils'
+
+interface Props {
+  tag: string
+}
+
+const { tag } = Astro.props
+
+function getTagUrl(tag: string) {
+  return `/tags/${getPathFromTag(tag, themeConfig.site.tagMap)}`
+}
+---
+
+<a href={getTagUrl(tag)}>
+  # {tag}
+</a>

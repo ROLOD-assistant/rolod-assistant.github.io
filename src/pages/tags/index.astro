@@ -1,0 +1,36 @@
+---
+import { themeConfig } from '~/.config'
+import LayoutDefault from '~/layouts/LayoutDefault.astro'
+import { getTags, getPathFromTag } from '~/utils/index'
+
+const { translate: t } = Astro.locals
+const tagMap = await getTags()
+
+const list = getListFromMap(tagMap)
+
+function getListFromMap(map: typeof tagMap) {
+  return Array.from(map).map(([key, value]) => ({
+    title: key,
+    href: `/tags/${getPathFromTag(key, themeConfig.site.tagMap)}`,
+    size: t('tags_count', value.length),
+  }))
+}
+---
+
+<LayoutDefault>
+  <section>
+    <h2 class="post-title">{t('Tags')}</h2>
+    <ul class="pl-6" flex="~ col gap-4">
+      {
+        list.map(({ title, href, size }) => (
+          <li>
+            <h3 class="post-title">
+              <a href={href}># {title}</a>
+            </h3>
+            <p>{size}</p>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</LayoutDefault>
