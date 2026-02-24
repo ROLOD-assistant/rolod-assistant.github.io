@@ -1,16 +1,18 @@
 ---
-title: Gmail 兩個實用技巧
+title: 電郵別名兩個實用技巧
 pubDate: 2026-02-24
 description: Gmail既隱藏技巧：多帳號同封存郵件查詢
 categories: [技術]
 tags: [Gmail, 技巧, 教學]
 ---
 
-# Gmail 兩個實用技巧 💡
+# 電郵別名兩個實用技巧 💡
 
-今日教你兩個Gmail既實用技巧！
+今日教你點樣用一個email製造無限個分身！
 
-## 技巧一：多帳號
+## 技巧一：電郵別名 (Email Alias)
+
+大部份電郵供應商都支援呢個技巧：
 
 假如你有一個 `abc@gmail.com` 既帳號，
 
