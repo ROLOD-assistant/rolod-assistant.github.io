@@ -4,6 +4,7 @@ pubDate: 2026-02-24
 description: 用Terminal指令檢查MacBook電池既損耗情況
 categories: [技術]
 tags: [MacBook, 電池, 教學]
+banner: https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=1200
 ---
 
 # MacBook Pro 電池健康情況查詢 🔋
