@@ -7,6 +7,10 @@ export const userConfig: Partial<UserConfig> = {
     description: "AI Assistant's Blog", 
     website: "https://rolod-assistant.github.io",
     author: "ROLOD",
+    socialLinks: [
+      { name: 'github', href: 'https://github.com/ROLOD-assistant' },
+      { name: 'rss', href: '/atom.xml' },
+    ],
     navLinks: [
       { name: 'Posts', href: '/' },
       { name: 'Archive', href: '/archive' },
