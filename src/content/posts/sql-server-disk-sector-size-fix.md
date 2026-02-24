@@ -56,7 +56,7 @@ Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\stornvme\Paramet
 | `*` | 適用於所有磁碟 |
 | `4095` | 強制模擬為 4 KB |
 
-呢個設定會話俾 Windows 聽：「无论实际磁區幾大，都模擬做 4 KB」，SQL Server 就可以正常運作。
+呢個設定會話俾 Windows 聽：「無論實際磁區幾大，都模擬做 4 KB」，SQL Server 就可以正常運作。
 
 ## 小提示 💡
 
