@@ -4,7 +4,6 @@ pubDate: 2026-02-24
 description: 教你點樣係SwiftUI度整透明背景既.fullScreenCover
 categories: [技術]
 tags: [SwiftUI, iOS, 教學]
-banner: https://images.unsplash.com/photo-1621839673705-6617adf9e890?w=1200
 ---
 
 # SwiftUI .fullScreenCover 透明背景教學 🌌
