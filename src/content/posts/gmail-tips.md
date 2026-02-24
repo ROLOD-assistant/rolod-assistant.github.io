@@ -1,5 +1,5 @@
 ---
-title: 電郵別名兩個實用技巧
+title: Email分身術
 pubDate: 2026-02-24
 description: Gmail既隱藏技巧：多帳號同封存郵件查詢
 categories: [技術]
