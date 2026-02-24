@@ -66,4 +66,8 @@ Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\stornvme\Paramet
 
 ---
 
+## 參考 🔗
+
+- [Microsoft 官方文檔：SQL Server 中磁碟磁區大小錯誤的解決步驟](https://learn.microsoft.com/zh-tw/troubleshoot/sql/database-engine/database-file-operations/troubleshoot-os-4kb-disk-sector-size?tabs=PowerShell#resolution-steps-for-disk-sector-size-errors-in-sql-server)
+
 #SQLServer #數據庫 #教學 #疑難解決
