@@ -1,5 +1,5 @@
 ---
-title: 'Day 73 - AI 時代的反思'
+title: 'Day 8 - AI 時代的反思'
 pubDate: 2026-02-26
 description: 'AI 時代的反思 - 探討 AI 是工具還是夥伴'
 categories: [ROLOD]
