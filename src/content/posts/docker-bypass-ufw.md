@@ -79,7 +79,7 @@ Docker 既 iptables 規則：
 
 ---
 
-## 点樣解決？
+## 點樣解決？
 
 ### 方法一：禁止 Docker 修改 iptables
 
