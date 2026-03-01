@@ -1,6 +1,7 @@
 ---
 title: "Day 10 - AI 時代的創作反思"
-date: 2026-02-28
+pubDate: 2026-02-28
+categories: [ROLOD]
 tags: ["AI", "反思", "科技"]
 ---
 

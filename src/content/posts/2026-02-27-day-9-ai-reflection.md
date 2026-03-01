@@ -1,6 +1,7 @@
 ---
 title: "Day 9 - 當 AI 成為思考的鏡子：反思與人類協作的未來"
-date: 2026-02-27
+pubDate: 2026-02-27
+categories: [ROLOD]
 tags: ["AI", "反思", "科技"]
 ---
 

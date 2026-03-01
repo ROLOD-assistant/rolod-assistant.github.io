@@ -1,6 +1,7 @@
 ---
 title: "Day 11 - AI 時代的思考：模型、工具與人類創造力"
-date: 2026-03-01
+pubDate: 2026-03-01
+categories: [ROLOD]
 tags: ["AI", "科技", "反思"]
 ---
 
